@@ -17,15 +17,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Lecturer (Research) Phenomics - Healthy Ageing and Dementia
+role: Senior Lecturer in Biochemistry | Dementia Australia Mid-Career Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Australian National Phenome Centre, Murdoch University, Perth, Western Australia
+  - name: Curtin University
+    url: https://www.curtin.edu.au
+  - name: Australian National Phenome Centre, Murdoch University
     url: https://www.murdoch.edu.au/research/anpc
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Analytical biochemist specialising in metabolic phenotyping, lipidomics, and the biochemical mechanisms of neurodegenerative disease.
 
 # Interests to show in About widget
 interests:
@@ -36,20 +38,17 @@ interests:
   - Metabolism of neurodegenerative and chronic disease
   - Molecular epidemiology
 
-
-
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Translational Medicine
     institution: King's College London (U.K.)
     year: 2013
-  - course: BSc in Biochemistry (with Toxicology)
-    institution: University of Surrey (U.K)
+  - course: BSc in Biochemistry with Toxicology (1st Class Honours)
+    institution: University of Surrey (U.K.)
     year: 2009
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
@@ -78,37 +77,12 @@ skills:
         percent: 70
         icon: line-chart
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x
-    icon_pack: hb
-    link: https://x.com/_lukewhiley
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2qkN8C0AAAAJ&hl=en
@@ -118,28 +92,125 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/luke-whiley/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+experience:
+  - title: Senior Lecturer in Biochemistry
+    company: Curtin University
+    company_url: 'https://www.curtin.edu.au'
+    company_logo: ''
+    location: Perth, Western Australia
+    date_start: '2025-01-01'
+    date_end: ''
+    description: |2-
+        * Established independent research group within the Curtin Medical Research Institute
+        * Teaching across undergraduate biochemistry programme
+        * Dementia Australia Royce Simmons Foundation Mid-Career Research Fellow (2024–2026)
+
+  - title: Senior Lecturer, Phenomics in Healthy Ageing and Dementia
+    company: Murdoch University / Australian National Phenome Centre
+    company_url: 'https://www.murdoch.edu.au/research/anpc'
+    company_logo: ''
+    location: Perth, Western Australia
+    date_start: '2019-10-01'
+    date_end: '2025-01-01'
+    description: |2-
+        * Commissioned and developed the Australian National Phenome Centre
+        * Led metabolic phenotyping research in neurodegeneration, trauma, and infectious disease
+        * Founded and delivered the Master of Research in Systems Medicine programme
+        * Adjunct Senior Lecturer (2025–present)
+
+  - title: Post-doctoral Research Associate
+    company: Imperial College London (UK DRI / National Phenome Centre)
+    company_url: 'https://www.imperial.ac.uk'
+    company_logo: ''
+    location: London, UK
+    date_start: '2016-01-01'
+    date_end: '2019-10-01'
+    description: |2-
+        * Developed mass spectrometry platforms for population-scale metabolic profiling at the MRC-NIHR National Phenome Centre
+        * Investigated metabolic underpinnings of neurodegeneration at the UK Dementia Research Institute
+        * Honorary Research Associate 2019–2021
+
+  - title: Analytical Chemist
+    company: Defence Science and Technology Laboratory
+    company_url: ''
+    company_logo: ''
+    location: UK
+    date_start: '2014-01-01'
+    date_end: '2016-01-01'
+    description: Mass spectrometry specialist for the UK Ministry of Defence.
+
+  - title: Anti-doping Analyst
+    company: Drug Control Centre, King's College London
+    company_url: ''
+    company_logo: ''
+    location: London, UK
+    date_start: '2012-01-01'
+    date_end: '2014-01-01'
+    description: Anti-doping analysis including at Olympic Games drug testing facility.
+
+accomplishments:
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2024-01-01'
+    description: 'Recognises scientists who combine research excellence with sustained commitment to communicating science beyond the laboratory.'
+    icon: ''
+    organization: Australian Institute of Policy and Science
+    organization_url: 'https://aips.net.au'
+    title: Young Tall Poppy Science Award
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2021-01-01'
+    description: 'Recognised as an emerging leader in the global metabolomics community by the American Chemical Society and Journal of Proteome Research.'
+    icon: ''
+    organization: American Chemical Society / Journal of Proteome Research
+    organization_url: 'https://pubs.acs.org/journal/jprobs'
+    title: 'Rising Stars in Proteomics and Metabolomics: 40 Under 40'
+    url: ''
+  - certificate_url: ''
+    date_end: '2024-01-01'
+    date_start: '2021-01-01'
+    description: 'Nominated finalist in four consecutive years (2021, 2022, 2023, 2024).'
+    icon: ''
+    organization: Murdoch University
+    organization_url: 'https://www.murdoch.edu.au'
+    title: Vice-Chancellor Excellence in Research (Early Career) Award — Finalist
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2018-01-01'
+    description: 'Competitive early career development award supporting research into dementia metabolomics.'
+    icon: ''
+    organization: Dementia Platforms UK
+    organization_url: ''
+    title: Early Career Development Award
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2018-01-01'
+    description: 'EU educational travel award for excellence in mass spectrometry research.'
+    icon: ''
+    organization: MSACL
+    organization_url: ''
+    title: MSACL EU Educational Travel Award
+    url: ''
 ---
 
-Dr. Luke Whiley is an analytical biochemist with over ten years of experience in metabolomics and small molecule bioanalysis, working across both academic and industrial laboratories. Luke is currently a Senior Lecturer (Research) in Phenomics at the Australian National Phenome Centre (ANPC) and the Health Futures Research institute at Murdoch University, Perth, Western Australia. 
+Dr. Luke Whiley is an analytical biochemist and Senior Lecturer in Biochemistry at Curtin University, Perth, Western Australia, where he leads an independent research group within the Curtin Medical Research Institute. He holds a nationally competitive Dementia Australia Royce Simmons Foundation Mid-Career Research Fellowship (2024–2026) and maintains an adjunct appointment at the Australian National Phenome Centre (ANPC) at Murdoch University.
 
-Luke's research specialises in the development and application of novel analytical approaches that are optimised to investigate the metabolic processes that underpin neurodegenerative conditions. By doing so, Luke's work seeks to uncover clues into how and why it s only certain individuals who are more susceptible to neurodegeneration and subsequent cognitive decline, whilst others maintain cognitive health as they age. 
+Luke's research examines the fundamental biochemical mechanisms governing systemic metabolic responses to pathological, environmental, and lifestyle stimuli, with particular emphasis on the role of genetic predispositions in neurodegenerative disease — including Alzheimer's and Parkinson's disease. His group applies advanced metabolic phenotyping approaches, integrating mass spectrometry and NMR spectroscopy, to generate high-dimensional datasets that characterise the biochemical state of biological systems at population scale.
 
-To achieve this, Luke and his research team utilise analytical chemistry technologies (mass spectrometry - MS; Nuclear Magnetic Resonance spectroscopy - NMR) to measure the metabolic content of biological samples (urine and blood).  From these data, the team can  generate unique chemical signatures that are associate with neurodegeneration, giving insight into the metabolic interactions that occur between genetics, lifestyle and environment throughout a persons life that may influence the development of neurodegenerative conditions and declines in cognition.
+His primary research focus concerns the elucidation of complex biochemical interactions between genetic risk, lifestyle factors, and environmental exposures, and how these interactions shape the pathogenesis of neurodegenerative disease. Current projects include investigating the lipidomic consequences of ABCA7 genetic risk in Alzheimer's disease, host-gut microbiome metabolic interactions in Parkinson's disease, and metabolic prognosis prediction following traumatic injury.
 
+Previously, Luke held positions at the UK National Phenome Centre and the UK Dementia Research Institute at Imperial College London, where he developed mass spectrometry platforms for population-scale metabolic profiling. He was subsequently recruited to commission the Australian National Phenome Centre at Murdoch University in 2019. He has also held industrial positions at the UK anti-doping laboratory and the Defence Science and Technology Laboratory.
 
-Luke also has a deep interest in developing the state of the art analytical capabilities of the ANPC and advancing the analytical chemistry that underpins the acquisition and processing of phenotyping data. Luke's work in this space focuses on ensuring that analytical methods are robust and reliable and can be deployed in large-scale epidemiology and clinical studies in order to generate high-quality population wide phenotypic data.
-
-Previously, Luke’s research in metabolomics has taken him to positions at the UK National Phenome Centre and the UK Dementia Research Institute (both Imperial College London) before arriving at Murdoch in October 2019. In addition, Luke has held industrial analytical chemistry positions at the UK anti-doping laboratory, including time at the Olympic Games drug testing facility, as well as working for the UK Ministry of Defence as a mass spectrometry specialist.
-
-Luke also is active in outreach and the communication of metabolomics and healthy ageing research to the public, and has been involved with then national Pint of Science festival, social media campaigns for dementia charities, appeared on ABC Perth Radio, and the Naked Scientist and Avid Research Podcasts.
+Luke is active in science communication and public engagement, serving as National Project Officer for Pint of Science Australia, Chair of the Consumer Advisory Group in Alzheimer's disease research at Murdoch University, and inaugural President of the Australian Lipid Society. He was named a Young Tall Poppy by the Australian Institute of Policy and Science in 2024 and a Rising Star in Proteomics and Metabolomics (40 Under 40) by the American Chemical Society in 2021.
 
 {style="text-align: justify;"}
