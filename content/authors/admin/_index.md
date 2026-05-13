@@ -20,7 +20,7 @@ superuser: true
 role: Senior Lecturer in Biochemistry
 
 # Organisations/Affiliations to show in About widget
-organisations:
+organizations:
   - name: Curtin University
     url: https://staffportal.curtin.edu.au/staff/profile/view/luke-gray-whiley-c82050ab/
   - name: Australian National Phenome Centre, Murdoch University
