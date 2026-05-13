@@ -170,7 +170,7 @@ sections:
           tag: '*'
     design:
       columns: '2'
-      view: showcase
+      view: card
       flip_alt_rows: false
 
   - block: collection
