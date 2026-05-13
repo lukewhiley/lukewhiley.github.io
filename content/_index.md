@@ -20,7 +20,7 @@ sections:
 
   - block: skills
     content:
-      title: ''
+      title: '.'
       text: ''
       username: admin2
     design:
