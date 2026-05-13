@@ -56,32 +56,32 @@ skills:
     items:
       - name: Metabolic phenotyping
         description: ''
-        percent: 100
+        percent: 0
         icon: beaker
         icon_pack: fas
       - name: Bioanalytical chemistry
         description: ''
-        percent: 95
+        percent: 0
         icon: flask
         icon_pack: fas
       - name: Mass spectrometry
         description: ''
-        percent: 95
+        percent: 0
         icon: atom
         icon_pack: fas
       - name: Lipidomics & metabolomics
         description: ''
-        percent: 95
+        percent: 0
         icon: chart-line
         icon_pack: fas
       - name: R & bioinformatics
         description: ''
-        percent: 80
+        percent: 0
         icon: r-project
         icon_pack: fab
       - name: Systems medicine
         description: ''
-        percent: 85
+        percent: 0
         icon: network-wired
         icon_pack: fas
 
@@ -91,27 +91,27 @@ skills:
     items:
       - name: Curriculum design & innovation
         description: ''
-        percent: 90
+        percent: 0
         icon: chalkboard-teacher
         icon_pack: fas
       - name: Undergraduate & postgraduate lecturing
         description: ''
-        percent: 95
+        percent: 0
         icon: graduation-cap
         icon_pack: fas
       - name: Research supervision
         description: ''
-        percent: 90
+        percent: 0
         icon: user-graduate
         icon_pack: fas
       - name: Bioinformatics & data science training
         description: ''
-        percent: 80
+        percent: 0
         icon: laptop-code
         icon_pack: fas
       - name: GenAI integration in teaching
         description: ''
-        percent: 75
+        percent: 0
         icon: robot
         icon_pack: fas
 
