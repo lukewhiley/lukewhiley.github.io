@@ -59,42 +59,107 @@ skills:
         icon_pack: fas
       - name: Bioanalytical chemistry
         description: ''
-        percent: 90
-        icon: beaker
+        percent: 95
+        icon: flask
         icon_pack: fas
       - name: Mass spectrometry
         description: ''
-        percent: 90
+        percent: 95
         icon: atom
         icon_pack: fas
-      - name: R
+      - name: Lipidomics & metabolomics
+        description: ''
+        percent: 95
+        icon: chart-line
+        icon_pack: fas
+      - name: R & bioinformatics
         description: ''
         percent: 80
         icon: r-project
         icon_pack: fab
-      - name: Metabolomic data modelling
+      - name: Systems medicine
         description: ''
-        percent: 70
-        icon: line-chart
+        percent: 85
+        icon: network-wired
         icon_pack: fas
 
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=2qkN8C0AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/lukewhiley
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/luke-whiley/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - name: Teaching & Training
+    color: '#2196f3'
+    color_border: '#42a5f5'
+    items:
+      - name: Curriculum design & innovation
+        description: ''
+        percent: 90
+        icon: chalkboard-teacher
+        icon_pack: fas
+      - name: Undergraduate & postgraduate lecturing
+        description: ''
+        percent: 95
+        icon: graduation-cap
+        icon_pack: fas
+      - name: Research supervision
+        description: ''
+        percent: 90
+        icon: user-graduate
+        icon_pack: fas
+      - name: Bioinformatics & data science training
+        description: ''
+        percent: 80
+        icon: laptop-code
+        icon_pack: fas
+      - name: GenAI integration in teaching
+        description: ''
+        percent: 75
+        icon: robot
+        icon_pack: fas
+
+  - name: Leadership & Service
+    color: '#4caf50'
+    color_border: '#66bb6a'
+    items:
+      - name: Scientific society leadership
+        description: 'Inaugural President, Australian Lipid Society; Elected member, ANZSMS Executive Committee'
+        percent: 95
+        icon: users
+        icon_pack: fas
+      - name: Conference & event organisation
+        description: 'Lead organiser, Australian Lipid Meeting 7 / International Lipidomics Society Conference 2026'
+        percent: 90
+        icon: calendar-alt
+        icon_pack: fas
+      - name: Consumer & community engagement
+        description: 'Chair, Consumer Advisory Group in Alzheimer''s disease research; CCI Lead, ANPC'
+        percent: 90
+        icon: hands-helping
+        icon_pack: fas
+      - name: Science communication
+        description: 'National Project Officer, Pint of Science Australia; Young Tall Poppy 2024'
+        percent: 90
+        icon: bullhorn
+        icon_pack: fas
+      - name: EMCR advocacy & governance
+        description: 'Founding member, Murdoch EMCR Advisory Committee; Elected member, Murdoch Academic Council'
+        percent: 85
+        icon: landmark
+        icon_pack: fas
+        
+# # Social/Academic Networking
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: '/#contact'
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: https://scholar.google.com/citations?user=2qkN8C0AAAAJ&hl=en
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/lukewhiley
+#   - icon: linkedin
+#     icon_pack: fab
+#     link: https://www.linkedin.com/in/luke-whiley/
+#   - icon: cv
+#     icon_pack: ai
+#     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
