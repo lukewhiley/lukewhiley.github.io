@@ -1,6 +1,6 @@
 ---
 title: "Systemic Metabolic Responses to Burn Injury"
-summary: "Characterising the systemic metabolic and lipidomic response to thermal burn injury and traumatic brain injury, and translating these signatures into prognostic tools for clinical application."
+summary: "Burn injury and traumatic brain injury trigger profound and often prolonged systemic metabolic perturbations that extend far beyond the site of injury, yet these responses are poorly captured by conventional clinical markers. Our research applies comprehensive lipidomic and metabolic phenotyping to human injury cohorts to characterise these responses at a pathway level, with the goal of translating metabolic signatures into practical prognostic tools for clinical decision-making. *Click to read more.*"
 tags:
   - Burns
   - Trauma
@@ -9,6 +9,7 @@ tags:
   - Metabolomics
   - Prognosis
 date: "2020-01-01"
+show_date: false
 external_link: ""
 image:
   caption: ""

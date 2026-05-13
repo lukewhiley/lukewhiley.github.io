@@ -1,6 +1,6 @@
 ---
 title: "Bioanalytical Workflow Development for Metabolic Phenotyping"
-summary: "Developing, validating, and advancing the mass spectrometry and NMR-based bioanalytical workflows — including microsampling, quality control, metabolite annotation, and bioinformatic pipelines — that underpin population-scale metabolic phenotyping research."
+summary: "Generating high-quality, reproducible metabolic phenotyping data at population scale requires platforms that are rigorously designed, thoroughly validated, and continually advanced — from sample collection and mass spectrometry through to metabolite annotation, quality control, and bioinformatic modelling. This programme develops and validates the bioanalytical infrastructure that underpins all other research themes in our group, with methods now integrated into International Phenome Centre assay portfolios globally. *Click to read more.*"
 tags:
   - Metabolomics
   - Lipidomics
@@ -10,6 +10,7 @@ tags:
   - Method Development
   - Microsampling
 date: "2012-01-01"
+show_date: false
 external_link: ""
 image:
   caption: ""

@@ -1,6 +1,6 @@
 ---
 title: "Host-Microbiome Co-Metabolism"
-summary: "Investigating the metabolic pathways through which gut microbial metabolism influences host physiology, brain health, and neurodegeneration, with a particular focus on tryptophan catabolism and indole signalling."
+summary: "The gut microbiome produces a rich array of neuroactive and immunomodulatory metabolites — particularly tryptophan-derived indoles — that profoundly influence host physiology, brain plasticity, and disease risk across the lifespan. Our research investigates the metabolic pathways underpinning host-microbiome communication, combining validated bioanalytical platforms with population-scale phenotyping to understand how disruption of these pathways contributes to neurodegeneration and other chronic conditions. *Click to read more.*"
 tags:
   - Gut-Brain Axis
   - Microbiome
@@ -9,6 +9,7 @@ tags:
   - Neurogenesis
   - Metabolomics
 date: "2019-01-01"
+show_date: false
 external_link: ""
 image:
   caption: ""

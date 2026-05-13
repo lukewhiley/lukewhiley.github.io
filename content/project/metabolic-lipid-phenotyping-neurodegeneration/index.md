@@ -1,6 +1,6 @@
 ---
 title: "Metabolic & Lipid Phenotyping in Neurodegeneration"
-summary: "Applying advanced metabolic and lipidomic phenotyping to investigate the biochemical mechanisms of genetic risk and disease pathogenesis in Alzheimer's and Parkinson's disease."
+summary: "Alzheimer's and Parkinson's disease are underpinned by complex interactions between genetic susceptibility, lifestyle, and metabolic dysregulation that begin years before clinical symptoms emerge. Our research applies advanced lipidomic and metabolic phenotyping to large population cohorts and clinical samples to identify the biochemical consequences of genetic risk — including ABCA7 variants and ceramide metabolism — and to characterise systemic metabolic disruption in established disease. *Click to read more.*"
 tags:
   - Neurodegeneration
   - Alzheimer's Disease
@@ -9,6 +9,7 @@ tags:
   - Metabolomics
   - Genetics
 date: "2021-01-01"
+show_date: false
 external_link: ""
 image:
   caption: ""
