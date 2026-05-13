@@ -243,5 +243,4 @@ sections:
         provider: ''
     design:
       columns: '2'
-      
 ---
