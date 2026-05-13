@@ -46,7 +46,7 @@ sections:
         - name: Methods
           tag: Metabolomics
     design:
-      columns: '1'
+      columns: '2'
       view: card
 
   - block: collection
