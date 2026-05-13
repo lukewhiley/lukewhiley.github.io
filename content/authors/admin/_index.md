@@ -142,7 +142,8 @@ skills:
         percent: 85
         icon: landmark
         icon_pack: fas
-        - name: Research Funding & Impact
+        
+  - name: Research Funding & Impact
     color: '#ff9800'
     color_border: '#ffa726'
     items:
