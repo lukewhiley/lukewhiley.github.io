@@ -142,6 +142,35 @@ skills:
         percent: 85
         icon: landmark
         icon_pack: fas
+        - name: Research Funding & Impact
+    color: '#ff9800'
+    color_border: '#ffa726'
+    items:
+      - name: Competitive grant success
+        description: 'Over AU$3.4 million secured including NHMRC, Dementia Australia, and MRFF awards'
+        percent: 90
+        icon: trophy
+        icon_pack: fas
+      - name: National fellowship awards
+        description: 'Dementia Australia Royce Simmons Foundation Mid-Career Research Fellowship (2024-2026)'
+        percent: 95
+        icon: award
+        icon_pack: fas
+      - name: Research impact
+        description: 'H-index 23, over 2,800 citations across 56 peer-reviewed publications'
+        percent: 90
+        icon: chart-bar
+        icon_pack: fas
+      - name: International collaboration
+        description: 'Active collaborations across UK, Singapore, Spain, Japan, and USA'
+        percent: 90
+        icon: globe
+        icon_pack: fas
+      - name: Editorial responsibilities
+        description: 'Associate Editor, Nutrition & Metabolism; Editorial Advisory Board, Journal of Proteome Research'
+        percent: 85
+        icon: book-open
+        icon_pack: fas
         
 # # Social/Academic Networking
 # social:
