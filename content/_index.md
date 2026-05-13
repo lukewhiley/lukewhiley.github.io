@@ -18,6 +18,12 @@ sections:
         gradient_start: '#0077b6'
         text_color_light: true
 
+  - block: about.biography
+    id: about
+    content:
+      title: About
+      username: admin
+
   - block: skills
     content:
       title: Skills & Expertise
@@ -33,12 +39,6 @@ sections:
       username: admin2
     design:
       columns: '2'
-
-  - block: about.biography
-    id: about
-    content:
-      title: About
-      username: admin
 
   - block: portfolio
     id: projects
