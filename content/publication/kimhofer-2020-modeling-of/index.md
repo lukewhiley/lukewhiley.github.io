@@ -3,7 +3,7 @@ title: "Integrative Modeling of Quantitative Plasma Lipoprotein, Metabolic, and 
 authors:
 - Kimhofer T
 - Lodge S
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Loo RL
 - Lawler NG

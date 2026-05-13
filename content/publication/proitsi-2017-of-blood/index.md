@@ -3,7 +3,7 @@ title: "Association of blood lipids with Alzheimer's disease: A comprehensive li
 authors:
 - Proitsi P
 - Kim M
-- **Whiley L**
+- "**Whiley L**"
 - Simmons A
 - Sattlecker M
 - Velayudhan L

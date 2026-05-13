@@ -13,7 +13,7 @@ authors:
 - Hoang L
 - Nordström A
 - Gómez-Romero M
-- **Whiley L**
+- "**Whiley L**"
 - Lewis MR
 - Nicholson JK
 - Benton HP

@@ -6,7 +6,7 @@ authors:
 - Wong KW
 - Li S
 - Bong SH
-- **Whiley L**
+- "**Whiley L**"
 - Wist J
 - Masuda R
 - Greeff J

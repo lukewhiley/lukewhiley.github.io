@@ -11,7 +11,7 @@ authors:
 - Wist J
 - Holmes E
 - Nicholson JK
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 date: "2023-01-01"
 publishDate: "2023-01-01"

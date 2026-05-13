@@ -7,7 +7,7 @@ authors:
 - Fairhall SJ
 - Poole SJC
 - Bird M
-- **Whiley L**
+- "**Whiley L**"
 - Flint DP
 - Green AC
 - Timperley CM

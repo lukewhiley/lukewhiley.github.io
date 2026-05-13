@@ -6,7 +6,7 @@ authors:
 - Abonnel M
 - Kenna J
 - Lodge S
-- **Whiley L**
+- "**Whiley L**"
 - Bernal A
 - Coudert JD
 - Noonan J

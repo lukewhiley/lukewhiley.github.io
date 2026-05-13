@@ -18,7 +18,7 @@ authors:
 - Pettersson S
 - Richards T
 - Holmes E
-- **Whiley L**
+- "**Whiley L**"
 - Nicholson JK
 date: "2021-01-01"
 publishDate: "2021-01-01"

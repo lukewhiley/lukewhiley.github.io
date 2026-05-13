@@ -1,7 +1,7 @@
 ---
 title: "Metabolic phenotyping reveals a reduction in the bioavailability of serotonin and kynurenine pathway metabolites in both the urine and serum of individuals living with Alzheimer's disease."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Chappell KE
 - D'Hondt E
 - Lewis MR

@@ -1,7 +1,7 @@
 ---
 title: "Cross-Validation of Metabolic Phenotypes in SARS-CoV-2 Infected Subpopulations Using Targeted Liquid Chromatography-Mass Spectrometry (LC-MS)."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Lawler NG
 - Zeng AX
 - Lee A

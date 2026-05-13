@@ -3,7 +3,7 @@ title: "Urinary metabolic phenotyping for Alzheimer's disease."
 authors:
 - Kurbatova N
 - Garg M
-- **Whiley L**
+- "**Whiley L**"
 - Chekmeneva E
 - Jiménez B
 - Gómez-Romero M

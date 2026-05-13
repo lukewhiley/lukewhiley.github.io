@@ -6,7 +6,7 @@ authors:
 - Morillon A
 - Yang R
 - Bong SH
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Fear VS
 - Cuttle L

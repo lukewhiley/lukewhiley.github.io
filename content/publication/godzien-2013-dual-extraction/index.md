@@ -3,7 +3,7 @@ title: "In-vial dual extraction liquid chromatography coupled to mass spectromet
 authors:
 - Godzien J
 - Ciborowski M
-- **Whiley L**
+- "**Whiley L**"
 - Legido-Quigley C
 - Ruperez FJ
 - Barbas C

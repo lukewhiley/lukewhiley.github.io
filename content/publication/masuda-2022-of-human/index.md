@@ -3,7 +3,7 @@ title: "Exploration of Human Serum Lipoprotein Supramolecular Phospholipids Usin
 authors:
 - Masuda R
 - Lodge S
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Lawler N
 - Nitschke P

@@ -6,7 +6,7 @@ authors:
 - Hall D
 - Johnson BZ
 - Bong SH
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Fear VS
 - Fear MW

@@ -1,7 +1,7 @@
 ---
 title: "Systematic Isolation and Structure Elucidation of Urinary Metabolites Optimized for the Analytical-Scale Molecular Profiling Laboratory."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Chekmeneva E
 - Berry DJ
 - Jiménez B

@@ -5,7 +5,7 @@ authors:
 - Martin KA
 - Xing PY
 - Agrawal R
-- **Whiley L**
+- "**Whiley L**"
 - Wood TK
 - Hejndorf S
 - Ng YZ

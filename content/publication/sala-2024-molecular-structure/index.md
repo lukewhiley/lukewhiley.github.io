@@ -19,7 +19,7 @@ authors:
 - Morillon A
 - Loo RL
 - Hall D
-- **Whiley L**
+- "**Whiley L**"
 - Evans GB
 - Grove TL
 - Almo SC

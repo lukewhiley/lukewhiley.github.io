@@ -7,7 +7,7 @@ authors:
 - Nitschke P
 - Leonard MM
 - Gray N
-- **Whiley L**
+- "**Whiley L**"
 - Masuda R
 - Holmes E
 - Wist J

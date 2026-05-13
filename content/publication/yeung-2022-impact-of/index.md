@@ -3,7 +3,7 @@ title: "The impact of bariatric surgery on serum tryptophan-kynurenine pathway m
 authors:
 - Yeung KTD
 - Penney N
-- **Whiley L**
+- "**Whiley L**"
 - Ashrafian H
 - Lewis MR
 - Purkayastha S

@@ -5,7 +5,7 @@ authors:
 - Hussain H
 - Jiménez B
 - Yuen AHY
-- **Whiley L**
+- "**Whiley L**"
 - Witt M
 - Lewis MR
 - Chekmeneva E

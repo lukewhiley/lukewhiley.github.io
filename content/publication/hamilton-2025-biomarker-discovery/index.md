@@ -2,7 +2,7 @@
 title: "Forensic biomarker discovery: Utilising metabolomics to elucidate prospective fatigue biomarkers for eventual roadside detection."
 authors:
 - Hamilton A
-- **Whiley L**
+- "**Whiley L**"
 - Kadyrov M
 - Chapman B
 date: "2025-01-01"

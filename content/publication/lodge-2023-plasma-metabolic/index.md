@@ -6,7 +6,7 @@ authors:
 - Gray N
 - Masuda R
 - Nitschke P
-- **Whiley L**
+- "**Whiley L**"
 - Bong S
 - Yeap BB
 - Dwivedi G

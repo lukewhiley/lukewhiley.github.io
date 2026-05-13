@@ -1,7 +1,7 @@
 ---
 title: "Current strategies in the discovery of small-molecule biomarkers for Alzheimer's disease."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Legido-Quigley C
 date: "2011-01-01"
 publishDate: "2011-01-01"

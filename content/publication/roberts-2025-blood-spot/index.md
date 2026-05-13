@@ -3,7 +3,7 @@ title: "Dried blood spot microsampling: A semi-quantitative 4D-lipidomics approa
 authors:
 - Roberts JL
 - Ryan MJ
-- **Whiley L**
+- "**Whiley L**"
 - Gay M
 - Nambiar V
 - Holmes E

@@ -4,7 +4,7 @@ authors:
 - Abdulraheem RA
 - Danazumi AU
 - Nitschke P
-- **Whiley L**
+- "**Whiley L**"
 - Tudu AI
 - Coorey R
 - Li Z

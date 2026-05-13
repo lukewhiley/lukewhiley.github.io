@@ -3,7 +3,7 @@ title: "Editorial: Cerebral amyloid angiopathy: from bench to bedside."
 authors:
 - Sohrabi HR
 - Greenberg SM
-- **Whiley L**
+- "**Whiley L**"
 date: "2024-01-01"
 publishDate: "2024-01-01"
 publication_types: ["2"]

@@ -2,7 +2,7 @@
 title: "Arachidic Acid-Carrying Phosphatidylglycerol Lipids Statistically Mediate the Relationship Between Central Adiposity and Cognitive Function in Cognitively Unimpaired Older Adults."
 authors:
 - Kadyrov M
-- **Whiley L**
+- "**Whiley L**"
 - Erickson KI
 - Brown B
 - Holmes E

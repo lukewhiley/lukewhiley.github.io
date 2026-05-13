@@ -2,7 +2,7 @@
 title: "Advanced Microsamples: Current Applications and Considerations for Mass Spectrometry-Based Metabolic Phenotyping Pipelines"
 authors:
 - Roberts JL
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Gay M
 - Lawler NG

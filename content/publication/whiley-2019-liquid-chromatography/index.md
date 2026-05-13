@@ -1,7 +1,7 @@
 ---
 title: "Ultrahigh-Performance Liquid Chromatography Tandem Mass Spectrometry with Electrospray Ionization Quantification of Tryptophan Metabolites and Markers of Gut Health in Serum and Plasma-Application to Clinical and Epidemiology Cohorts."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Nye LC
 - Grant I
 - Andreas N

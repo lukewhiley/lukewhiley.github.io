@@ -4,7 +4,7 @@ authors:
 - Sen A
 - Wang Y
 - Chiu K
-- **Whiley L**
+- "**Whiley L**"
 - Cowan D
 - Chang RC
 - Legido-Quigley C

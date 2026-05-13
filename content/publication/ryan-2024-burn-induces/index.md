@@ -3,7 +3,7 @@ title: "Nonsevere Burn Induces a Prolonged Systemic Metabolic Phenotype Indicati
 authors:
 - Ryan MJ
 - Raby E
-- **Whiley L**
+- "**Whiley L**"
 - Masuda R
 - Lodge S
 - Nitschke P

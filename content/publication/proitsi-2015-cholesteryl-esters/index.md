@@ -3,7 +3,7 @@ title: "Plasma lipidomics analysis finds long chain cholesteryl esters to be ass
 authors:
 - Proitsi P
 - Kim M
-- **Whiley L**
+- "**Whiley L**"
 - Pritchard M
 - Leung R
 - Soininen H

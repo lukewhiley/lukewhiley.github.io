@@ -1,7 +1,7 @@
 ---
 title: "In-vial dual extraction for direct LC-MS analysis of plasma for comprehensive and highly reproducible metabolic fingerprinting."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Godzien J
 - Ruperez FJ
 - Legido-Quigley C

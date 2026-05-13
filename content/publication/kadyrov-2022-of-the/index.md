@@ -2,7 +2,7 @@
 title: "Associations of the Lipidome with Ageing, Cognitive Decline and Exercise Behaviours."
 authors:
 - Kadyrov M
-- **Whiley L**
+- "**Whiley L**"
 - Brown B
 - Erickson KI
 - Holmes E

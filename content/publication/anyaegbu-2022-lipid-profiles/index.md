@@ -11,7 +11,7 @@ authors:
 - McGonigle T
 - Papini M
 - Anderton RS
-- **Whiley L**
+- "**Whiley L**"
 - Fitzgerald M
 date: "2022-01-01"
 publishDate: "2022-01-01"

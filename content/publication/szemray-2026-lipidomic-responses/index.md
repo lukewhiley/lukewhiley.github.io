@@ -5,7 +5,7 @@ authors:
 - Lawler NG
 - Lodge S
 - Wist J
-- **Whiley L**
+- "**Whiley L**"
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types: ["2"]

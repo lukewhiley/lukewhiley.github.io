@@ -10,7 +10,7 @@ authors:
 - Nazeer A
 - Zhong Q
 - Liggi S
-- **Whiley L**
+- "**Whiley L**"
 - Mustafa R
 - Kivipelto M
 - Solomon A

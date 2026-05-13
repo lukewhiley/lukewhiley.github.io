@@ -5,7 +5,7 @@ authors:
 - Hanson AL
 - Lodge S
 - Lawler NG
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Nolan TH
 - Bergamaschi L

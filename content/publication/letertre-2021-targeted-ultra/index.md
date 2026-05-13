@@ -3,7 +3,7 @@ title: "A targeted ultra performance liquid chromatography - Tandem mass spectro
 authors:
 - Letertre MPM
 - Myridakis A
-- **Whiley L**
+- "**Whiley L**"
 - Camuzeaux S
 - Lewis MR
 - Chappell KE

@@ -14,7 +14,7 @@ authors:
 - El-Omar E
 - Nicholson JK
 - Holmes E
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 date: "2025-01-01"
 publishDate: "2025-01-01"

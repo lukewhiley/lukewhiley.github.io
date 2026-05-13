@@ -3,7 +3,7 @@ title: "Association between Plasma Ceramides and Phosphatidylcholines and Hippoc
 authors:
 - Kim M
 - Nevado-Holgado A
-- **Whiley L**
+- "**Whiley L**"
 - Snowden SG
 - Soininen H
 - Kloszewska I

@@ -2,7 +2,7 @@
 title: "Evaluation of Chinese medicinal herbs fingerprinting by HPLC-DAD for the detection of toxic aristolochic acids."
 authors:
 - Heaton J
-- **Whiley L**
+- "**Whiley L**"
 - Hong Y
 - Sebastian CM
 - Smith NW

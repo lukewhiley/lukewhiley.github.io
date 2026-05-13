@@ -2,7 +2,7 @@
 title: "A plasma lipid signature in acute human traumatic brain injury: Link with neuronal injury and inflammation markers."
 authors:
 - Nessel I
-- **Whiley L**
+- "**Whiley L**"
 - Dyall SC
 - Michael-Titus AT
 date: "2025-01-01"

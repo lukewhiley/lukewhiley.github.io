@@ -1,7 +1,7 @@
 ---
 title: "Evidence of altered phosphatidylcholine metabolism in Alzheimer's disease."
 authors:
-- **Whiley L**
+- "**Whiley L**"
 - Sen A
 - Heaton J
 - Proitsi P

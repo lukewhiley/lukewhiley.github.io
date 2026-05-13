@@ -6,7 +6,7 @@ authors:
 - Kimhofer T
 - Bong S
 - Begum S
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Lindon JC
 - Nitschke P

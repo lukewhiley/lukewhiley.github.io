@@ -1,7 +1,18 @@
 ---
 title: "Sex-based differences in long-term lipid metabolism, inflammation, and stress regulation after non-severe paediatric burns"
 authors:
-- Ryan, Monique J, Kierath, Eva, Lodge, Samantha, Masuda, Reika, Davis, Jacqueline A, D'Vaz, Nina, Barrett, Lucy W, Gray, Nicola, Holmes, Elaine, Wood, Fiona M, Whiley, Luke
+- Ryan, Monique J 
+- Kierath, Eva
+- Lodge, Samantha, 
+- Masuda, Reika, 
+- Davis, Jacqueline A, 
+- D'Vaz, Nina, 
+- Barrett, 
+- Lucy W, 
+- Gray, Nicola, 
+- Holmes, Elaine, 
+- Wood, Fiona M, 
+- "**Whiley, Luke**""
 date: "2026-01-01"
 publishDate: "2026-01-01"
 publication_types:

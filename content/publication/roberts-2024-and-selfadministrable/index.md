@@ -2,7 +2,7 @@
 title: "Rapid and Self-Administrable Capillary Blood Microsampling Demonstrates Statistical Equivalence with Standard Venous Collections in NMR-Based Lipoprotein Analysis."
 authors:
 - Roberts JL
-- **Whiley L**
+- "**Whiley L**"
 - Gray N
 - Gay M
 - Nitschke P
