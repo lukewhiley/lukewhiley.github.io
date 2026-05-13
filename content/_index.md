@@ -16,7 +16,7 @@ sections:
       text: ''
       username: admin
     design:
-      columns: '1'
+      columns: '2'
 
   - block: experience
     content:
@@ -169,7 +169,7 @@ sections:
         - name: All
           tag: '*'
     design:
-      columns: '1'
+      columns: '2'
       view: showcase
       flip_alt_rows: false
 
