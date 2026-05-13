@@ -1,0 +1,27 @@
+---
+title: "Integrative Plasma Metabolic and Lipidomic Modelling of SARS-CoV-2 Infection in Relation to Clinical Severity and Early Mortality Prediction."
+authors:
+- Lodge S
+- Lawler NG
+- Gray N
+- Masuda R
+- Nitschke P
+- **Whiley L**
+- Bong S
+- Yeap BB
+- Dwivedi G
+- Spraul M
+- Schaefer H
+- Gil-Redondo R
+- Embade N
+- Millet O
+- Holmes E
+- Wist J
+- Nicholson JK
+date: "2023-01-01"
+publishDate: "2023-01-01"
+publication_types: ["2"]
+publication: "*International journal of molecular sciences*"
+doi: "10.3390/ijms241411614"
+abstract: "An integrative multi-modal metabolic phenotyping model was developed to assess the systemic plasma sequelae of SARS-CoV-2 (rRT-PCR positive) induced COVID-19 disease in patients with different respiratory severity levels. Plasma samples from 306 unvaccinated COVID-19 patients were collected in 2020 and classified into four levels of severity ranging from mild symptoms to severe ventilated cases. These samples were investigated using a combination of quantitative Nuclear Magnetic Resonance (NMR) spectroscopy and Mass Spectrometry (MS) platforms to give broad lipoprotein, lipidomic and amino acid, tryptophan-kynurenine pathway, and biogenic amine pathway coverage. All platforms revealed highly significant differences in metabolite patterns between patients and controls (n = 89) that had been collected prior to the COVID-19 pandemic. The total number of significant metabolites increased with severity with 344 out of the 1034 quantitative variables being common to all severity classes. Metabolic signatures showed a continuum of changes across the respiratory severity levels with the most significant and extensive changes being in the most severely affected patients. Even mildly affected respiratory patients showed multiple highly significant abnormal biochemical signatures reflecting serious metabolic deficiencies of the type observed in Post-acute COVID-19 syndrome patients. The most severe respiratory patients had a high mortality (56.1%) and we found that we could predict mortality in this patient sub-group with high accuracy in some cases up to 61 days prior to death, based on a separate metabolic model, which highlighted a different set of metabolites to those defining the basic disease. Specifically, hexosylceramides (HCER 16:0, HCER 20:0, HCER 24:1, HCER 26:0, HCER 26:1) were markedly elevated in the non-surviving patient group (Cliff's delta 0.91-0.95) and two phosphoethanolamines (PE.O 18:0/18:1, Cliff's delta = -0.98 and PE.P 16:0/18:1, Cliff's delta = -0.93) were markedly lower in the non-survivors. These results indicate that patient morbidity to mortality trajectories is determined relatively soon after infection, opening the opportunity to select more intensive therapeutic interventions to these \"high risk\" patients in the early disease stages."
+---
