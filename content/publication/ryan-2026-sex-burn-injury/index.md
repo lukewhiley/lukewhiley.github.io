@@ -7,8 +7,7 @@ authors:
 - Masuda, Reika
 - Davis, Jacqueline A 
 - D'Vaz, Nina 
-- Barrett 
-- Lucy W 
+- Barrett, Lucy W 
 - Gray, Nicola 
 - Holmes, Elaine
 - Wood, Fiona M
