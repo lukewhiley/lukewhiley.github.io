@@ -160,7 +160,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Current Projects
       filters:
         folders:
           - project
