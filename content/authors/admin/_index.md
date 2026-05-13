@@ -21,7 +21,7 @@ role: Senior Lecturer in Biochemistry
 
 # Organisations/Affiliations to show in About widget
 organizations:
-  - name: Curtin University
+  - name: Curtin Medical Research Institute (MRI), Curtin University
     url: https://staffportal.curtin.edu.au/staff/profile/view/luke-gray-whiley-c82050ab/
   - name: Australian National Phenome Centre, Murdoch University
     url: https://www.murdoch.edu.au/research/anpc
