@@ -4,11 +4,19 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  - block: hero
     content:
-      title: Biography
-      username: admin
+      title: |
+        The Whiley Metabolic & Lipid Phenotyping Lab
+      text: |
+        **Curtin University, Perth, Western Australia**
+
+        Decoding the metabolic architecture of disease risk through advanced bioanalytical phenotyping.
+    design:
+      background:
+        gradient_end: '#1a237e'
+        gradient_start: '#0077b6'
+        text_color_light: true
 
   - block: skills
     content:
@@ -26,8 +34,14 @@ sections:
     design:
       columns: '2'
 
+  - block: about.biography
+    id: about
+    content:
+      title: About
+      username: admin
+
   - block: portfolio
-    id: Current Projects
+    id: projects
     content:
       title: Projects
       filters:
@@ -46,7 +60,7 @@ sections:
         - name: Methods
           tag: Metabolomics
     design:
-      columns: '2'
+      columns: '1'
       view: card
 
   - block: collection
@@ -63,7 +77,7 @@ sections:
 
   - block: collection
     content:
-      title: Full Publication List
+      title: All Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
