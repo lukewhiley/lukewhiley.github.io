@@ -16,7 +16,7 @@ sections:
       text: ''
       username: admin
     design:
-      columns: '1'
+      columns: '2'
 
   - block: skills
     content:
@@ -24,10 +24,10 @@ sections:
       text: ''
       username: admin2
     design:
-      columns: '1'
+      columns: '2'
 
   - block: portfolio
-    id: projects
+    id: Current Projects
     content:
       title: Projects
       filters:
@@ -46,7 +46,7 @@ sections:
         - name: Methods
           tag: Metabolomics
     design:
-      columns: '1'
+      columns: '2'
       view: card
 
   - block: collection
@@ -58,12 +58,12 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: card
 
   - block: collection
     content:
-      title: All Publications
+      title: Full Publication List
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -73,7 +73,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '1'
+      columns: '2'
       view: citation
 
   - block: accomplishments
@@ -128,7 +128,7 @@ sections:
           title: MSACL EU Educational Travel Award
           url: ''
     design:
-      columns: '1'
+      columns: '2'
 
   - block: experience
     content:
@@ -190,7 +190,7 @@ sections:
           date_end: '2014-01-01'
           description: Anti-doping analysis including at Olympic Games drug testing facility.
     design:
-      columns: '1'
+      columns: '2'
 
   - block: contact
     id: contact
@@ -223,5 +223,5 @@ sections:
       form:
         provider: ''
     design:
-      columns: '1'
+      columns: '2'
 ---
