@@ -51,7 +51,6 @@ education:
     year: 2009
 
 # Skills
-# Skills
 skills:
   - name: Technical
     items:
