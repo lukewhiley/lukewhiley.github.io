@@ -12,9 +12,121 @@ sections:
 
   - block: skills
     content:
-      title: Skills
+      title: Skills & Expertise
       text: ''
       username: admin
+    design:
+      columns: '2'
+
+  - block: skills
+    content:
+      title: ''
+      text: ''
+      username: admin2
+    design:
+      columns: '2'
+
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Neurodegeneration
+          tag: Neurodegeneration
+        - name: Burns & Trauma
+          tag: Burns
+        - name: Gut-Brain Axis
+          tag: Gut-Brain Axis
+        - name: Methods
+          tag: Metabolomics
+    design:
+      columns: '1'
+      view: card
+
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+
+  - block: collection
+    content:
+      title: All Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
+
+  - block: accomplishments
+    content:
+      title: 'Awards & Honours'
+      subtitle:
+      date_format: Jan 2006
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-01'
+          description: 'Recognises scientists who combine research excellence with sustained commitment to communicating science beyond the laboratory.'
+          icon: ''
+          organization: Australian Institute of Policy and Science
+          organization_url: 'https://aips.net.au'
+          title: Young Tall Poppy Science Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-01-01'
+          description: 'Recognised as an emerging leader in the global metabolomics community by the American Chemical Society and Journal of Proteome Research.'
+          icon: ''
+          organization: American Chemical Society / Journal of Proteome Research
+          organization_url: 'https://pubs.acs.org/journal/jprobs'
+          title: 'Rising Stars in Proteomics and Metabolomics: 40 Under 40'
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-01-01'
+          date_start: '2021-01-01'
+          description: 'Nominated finalist in four consecutive years (2021, 2022, 2023, 2024).'
+          icon: ''
+          organization: Murdoch University
+          organization_url: 'https://www.murdoch.edu.au'
+          title: Vice-Chancellor Excellence in Research (Early Career) Award — Finalist
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-01-01'
+          description: 'Competitive early career development award supporting research into dementia metabolomics.'
+          icon: ''
+          organization: Dementia Platforms UK
+          organization_url: ''
+          title: Early Career Development Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-01-01'
+          description: 'EU educational travel award for excellence in mass spectrometry research.'
+          icon: ''
+          organization: MSACL
+          organization_url: ''
+          title: MSACL EU Educational Travel Award
+          url: ''
     design:
       columns: '2'
 
@@ -79,137 +191,6 @@ sections:
           description: Anti-doping analysis including at Olympic Games drug testing facility.
     design:
       columns: '2'
-
-  - block: accomplishments
-    content:
-      title: 'Awards & Honours'
-      subtitle:
-      date_format: Jan 2006
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2024-01-01'
-          description: 'Recognises scientists who combine research excellence with sustained commitment to communicating science beyond the laboratory.'
-          icon: ''
-          organization: Australian Institute of Policy and Science
-          organization_url: 'https://aips.net.au'
-          title: Young Tall Poppy Science Award
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2021-01-01'
-          description: 'Recognised as an emerging leader in the global metabolomics community by the American Chemical Society and Journal of Proteome Research.'
-          icon: ''
-          organization: American Chemical Society / Journal of Proteome Research
-          organization_url: 'https://pubs.acs.org/journal/jprobs'
-          title: 'Rising Stars in Proteomics and Metabolomics: 40 Under 40'
-          url: ''
-        - certificate_url: ''
-          date_end: '2024-01-01'
-          date_start: '2021-01-01'
-          description: 'Nominated finalist in four consecutive years (2021, 2022, 2023, 2024).'
-          icon: ''
-          organization: Murdoch University
-          organization_url: 'https://www.murdoch.edu.au'
-          title: Vice-Chancellor Excellence in Research (Early Career) Award — Finalist
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2018-01-01'
-          description: 'Competitive early career development award supporting research into dementia metabolomics.'
-          icon: ''
-          organization: Dementia Platforms UK
-          organization_url: ''
-          title: Early Career Development Award
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2018-01-01'
-          description: 'EU educational travel award for excellence in mass spectrometry research.'
-          icon: ''
-          organization: MSACL
-          organization_url: ''
-          title: MSACL EU Educational Travel Award
-          url: ''
-    design:
-      columns: '2'
-
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     offset: 0
-  #     order: desc
-  #   design:
-  #     view: compact
-  #     columns: '2'
-
-  - block: portfolio
-    id: projects
-    content:
-      title: Current Projects
-      filters:
-        folders:
-          - project
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-    design:
-      columns: '2'
-      view: card
-      flip_alt_rows: false
-
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-
-  - block: collection
-    content:
-      title: Full Publication List
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
 
   - block: contact
     id: contact
