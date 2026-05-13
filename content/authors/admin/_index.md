@@ -17,17 +17,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Lecturer in Biochemistry | Dementia Australia Mid-Career Research Fellow
+role: Senior Lecturer in Biochemistry
 
-# Organizations/Affiliations to show in About widget
-organizations:
+# Organisations/Affiliations to show in About widget
+organisations:
   - name: Curtin University
-    url: https://www.curtin.edu.au
+    url: https://staffportal.curtin.edu.au/staff/profile/view/luke-gray-whiley-c82050ab/
   - name: Australian National Phenome Centre, Murdoch University
     url: https://www.murdoch.edu.au/research/anpc
 
 # Short bio (displayed in user profile at end of posts)
-bio: Analytical biochemist specialising in metabolic phenotyping, lipidomics, and the biochemical mechanisms of neurodegenerative disease.
+bio: Analytical biochemist specialising in developing tools to understand the human response to neurodegerative disease and trauma
 
 # Interests to show in About widget
 interests:
@@ -37,6 +37,8 @@ interests:
   - Mass spectrometry
   - Metabolism of neurodegenerative and chronic disease
   - Molecular epidemiology
+  - Alzheimer's disease and dementia
+  - Burn injury and physical response to trauma
 
 # Education to show in About widget
 education:
