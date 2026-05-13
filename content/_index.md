@@ -16,7 +16,7 @@ sections:
       text: ''
       username: admin
     design:
-      columns: '2'
+      columns: '1'
 
   - block: experience
     content:
