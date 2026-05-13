@@ -4,7 +4,8 @@ authors:
 - Figliomeni, Abbey, Winter, Samantha, Abonnel, Madison, Kenna, Jade, Lodge, Samantha, Whiley, Luke, et al.
 date: "2025-01-01"
 publishDate: "2025-01-01"
-publication_types: ["2"]
+publication_types:
+- "2"
 publication: "*NPJ Parkinson's disease*"
 doi: "10.1038/s41531-025-01212-8"
 abstract: "Parkinson's disease (PD) is a progressive neurodegenerative disorder defined by motor impairments. However, people with PD (PwPD) experience a defined spectrum of non-motor symptoms, with gastrointestinal dysfunction the most common and earliest-presenting. Evidence suggests that PD pathology may originate in the gut, where microbial dysbiosis and immune dysregulation contribute to neuroinflammation, although mechanisms underlying this are unclear. PwPD (n = 31) and healthy controls (n = 28) were evaluated for clinical and gastrointestinal symptoms, faecal and plasma sample metabolomics, and comprehensive blood immunophenotyping. In PwPD, faecal samples exhibited reduced glutamate, succinate, and uracil concentrations, while plasma showed decreased 3-hydroxybutyrate and elevated creatine, succinate, and alanine levels. Immunophenotyping revealed a reduction in T cells, with evidence of altered effector capacity and functionality in CD4, CD8, MAIT and Vδ2 compartments. NK cells were expanded, while B cells were decreased in frequency with an enrichment of memory-like cells. Immune perturbations were correlated with levels of immunomodulatory metabolite succinate. Finally, clustering of blood parameters identified two PD endophenotypes distinguishable by gastrointestinal symptoms and T cell phenotypes associated with gut- and brain-tropism. These findings contribute to the growing understanding of metabolite-associated immune dysregulation in PD and highlight potential targets for early intervention in individuals presenting with gastrointestinal dysfunction."
