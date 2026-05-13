@@ -187,7 +187,7 @@ sections:
 
   - block: collection
     content:
-      title: All Publications
+      title: Full Publication List
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
