@@ -1,10 +1,37 @@
 ---
 title: "Metabolome-wide association study on ABCA7 indicates a role of ceramide metabolism in Alzheimer's disease."
 authors:
-- Dehghan, Abbas, Pinto, Rui Climaco, Karaman, Ibrahim, Huang, Jian, Durainayagam, Brenan R, Ghanbari, Mohsen, et al.
+- Dehghan A
+- Pinto RC
+- Karaman I
+- Huang J
+- Durainayagam BR
+- Ghanbari M
+- Nazeer A
+- Zhong Q
+- Liggi S
+- **Whiley L**
+- Mustafa R
+- Kivipelto M
+- Solomon A
+- Ngandu T
+- Kanekiyo T
+- Aikawa T
+- Radulescu CI
+- Barnes SJ
+- Graça G
+- Chekmeneva E
+- Camuzeaux S
+- Lewis MR
+- Kaluarachchi MR
+- Ikram MA
+- Holmes E
+- Tzoulaki I
+- Matthews PM
+- Griffin JL
+- Elliott P
 date: "2022-01-01"
 publishDate: "2022-01-01"
-featured: true
 publication_types: ["2"]
 publication: "*Proceedings of the National Academy of Sciences of the United States of America*"
 doi: "10.1073/pnas.2206083119"

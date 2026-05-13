@@ -1,10 +1,23 @@
 ---
 title: "Analytical quality control in targeted lipidomics: Evaluating the performance of commercial plasma as a surrogate for pooled study samples."
 authors:
-- Grant-St James, Alanah, Lee, Aude-Claire, Lee, Alex J, Wist, Julien, Sohel, Ferdous, Wong, Kok Wai, et al.
+- Grant-St James A
+- Lee A
+- Lee AJ
+- Wist J
+- Sohel F
+- Wong KW
+- Yeap BB
+- Loo RL
+- Henry A
+- Susic D
+- El-Omar E
+- Nicholson JK
+- Holmes E
+- **Whiley L**
+- Gray N
 date: "2025-01-01"
 publishDate: "2025-01-01"
-featured: true
 publication_types: ["2"]
 publication: "*Analytica chimica acta*"
 doi: "10.1016/j.aca.2025.344225"

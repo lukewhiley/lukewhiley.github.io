@@ -1,10 +1,21 @@
 ---
 title: "Nonsevere Burn Induces a Prolonged Systemic Metabolic Phenotype Indicative of a Persistent Inflammatory Response Postinjury."
 authors:
-- Ryan, Monique J, Raby, Edward, Whiley, Luke, Masuda, Reika, Lodge, Samantha, Nitschke, Philipp, et al.
+- Ryan MJ
+- Raby E
+- **Whiley L**
+- Masuda R
+- Lodge S
+- Nitschke P
+- Maker GL
+- Wist J
+- Holmes E
+- Wood FM
+- Nicholson JK
+- Fear MW
+- Gray N
 date: "2024-01-01"
 publishDate: "2024-01-01"
-featured: true
 publication_types: ["2"]
 publication: "*Journal of proteome research*"
 doi: "10.1021/acs.jproteome.3c00516"

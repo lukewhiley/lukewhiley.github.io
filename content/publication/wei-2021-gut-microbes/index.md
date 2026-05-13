@@ -1,10 +1,24 @@
 ---
 title: "Tryptophan-metabolizing gut microbes regulate adult neurogenesis via the aryl hydrocarbon receptor."
 authors:
-- Wei, George Zhang, Martin, Katherine A, Xing, Peter Yuli, Agrawal, Ruchi, Whiley, Luke, Wood, Thomas K, et al.
+- Wei GZ
+- Martin KA
+- Xing PY
+- Agrawal R
+- **Whiley L**
+- Wood TK
+- Hejndorf S
+- Ng YZ
+- Low JZY
+- Rossant J
+- Nechanitzky R
+- Holmes E
+- Nicholson JK
+- Tan E
+- Matthews PM
+- Pettersson S
 date: "2021-01-01"
 publishDate: "2021-01-01"
-featured: true
 publication_types: ["2"]
 publication: "*Proceedings of the National Academy of Sciences of the United States of America*"
 doi: "10.1073/pnas.2021091118"

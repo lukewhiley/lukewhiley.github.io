@@ -1,11 +1,19 @@
 ---
 title: "Dried blood spot microsampling: A semi-quantitative 4D-lipidomics approach using ultrahigh-performance liquid chromatography - high-resolution mass spectrometry (UHPLC - HRMS)."
 authors:
-- Roberts, Jayden Lee, Ryan, Monique J, Whiley, Luke, Gay, Melvin, Nambiar, Vimalnath, Holmes, Elaine, et al.
+- Roberts JL
+- Ryan MJ
+- **Whiley L**
+- Gay M
+- Nambiar V
+- Holmes E
+- Nicholson JK
+- Wist J
+- Gray N
+- Lawler NG
 date: "2025-01-01"
 publishDate: "2025-01-01"
-publication_types:
-- "2"
+publication_types: ["2"]
 publication: "*Talanta*"
 doi: "10.1016/j.talanta.2025.127677"
 abstract: "Dried blood spot (DBS) sample collections can offer a minimally invasive, cost-effective alternative to traditional venepuncture for remote sampling and high-frequency metabolic profiling. We present an optimized protocol for DBS-based extraction and comprehensive untargeted 4D lipid profiling using ultrahigh-performance liquid chromatography coupled with high-resolution mass spectrometry (trapped ion mobility - mass spectrometry), designed to support large-scale applications in population-wide lipidomics research. Inclusion of stable isotopically labelled internal standards allowed for semi-quantitative subclass-level correction for 10 μL DBS samples, enhancing the number of reproducible lipids within our curated target list (focussed on 432 unique rule-based lipid annotations out of 6845 features) across positive and negative heated electrospray ionization modes. The reproducibility of unique lipid features detected in replicate DBS (n = 6) was assessed on both peak areas (351 lipids <25 % CV) and calculated concentrations relative to internal standards (432 lipids <25 % CV), underscoring the benefit of internal standard addition. Storage conditions for DBS were also evaluated to determine short-term lipid stability at different temperatures (-20 °C, 4 °C, room temperature, and 45 °C). The majority of lipid subclasses, excluding a minority of glycerophospholipids and oxylipins, were stable up to 1 week at -20 °C and 4 °C (log(2)-fold change <30 % difference), which supports the short-term storage capacity for DBS in field and clinical settings. Similar stability was observed within a week at room temperature, excluding phosphatidylethanolamines and phosphatidylglycerols (log(2)-fold change >30 % difference). Application of the optimized workflow to a microsampling device (n = 6) identified 432 unique lipid features (CV < 25 %) with three repeated samplings over an hour showing minimal impact on lipid profiles by principal component analysis, showing promise for high-frequency, longitudinal DBS monitoring in population health. This work represents a significant advance, highlighting the potential for reliable lipid analysis from DBS samples with short-term stability under various storage conditions, an important logistical benefit for remote or resource-limited settings."

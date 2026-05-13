@@ -1,10 +1,12 @@
 ---
 title: "A plasma lipid signature in acute human traumatic brain injury: Link with neuronal injury and inflammation markers."
 authors:
-- Nessel, Isabell, Whiley, Luke, Dyall, Simon C, Michael-Titus, Adina T
+- Nessel I
+- **Whiley L**
+- Dyall SC
+- Michael-Titus AT
 date: "2025-01-01"
 publishDate: "2025-01-01"
-featured: true
 publication_types: ["2"]
 publication: "*Journal of cerebral blood flow and metabolism : official journal of the*"
 doi: "10.1177/0271678X241276951"

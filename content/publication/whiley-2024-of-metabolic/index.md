@@ -1,10 +1,21 @@
 ---
 title: "Cross-Validation of Metabolic Phenotypes in SARS-CoV-2 Infected Subpopulations Using Targeted Liquid Chromatography-Mass Spectrometry (LC-MS)."
 authors:
-- Whiley, Luke, Lawler, Nathan G, Zeng, Annie Xu, Lee, Alex, Chin, Sung-Tong, Bizkarguenaga, Maider, et al.
+- **Whiley L**
+- Lawler NG
+- Zeng AX
+- Lee A
+- Chin S
+- Bizkarguenaga M
+- Bruzzone C
+- Embade N
+- Wist J
+- Holmes E
+- Millet O
+- Nicholson JK
+- Gray N
 date: "2024-01-01"
 publishDate: "2024-01-01"
-featured: true
 publication_types: ["2"]
 publication: "*Journal of proteome research*"
 doi: "10.1021/acs.jproteome.3c00797"
